@@ -1,0 +1,3 @@
+(library
+ (name minigame)
+ (libraries ANSITerminal))
